@@ -3,7 +3,7 @@
     "license": "MIT",
     "require": {
         "psr/log": "*",
-        "denis909/yii2-console-logger": "*"
+        "denis909/console-logger": "*"
     },
     "autoload": {
         "psr-4": {
