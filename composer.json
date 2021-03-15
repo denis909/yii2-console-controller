@@ -2,11 +2,11 @@
     "name": "denis909/yii2-console-controller",
     "license": "MIT",
     "require": {
-        "psr/log": ""
+        "psr/log": "*"
     },
     "autoload": {
         "psr-4": {
-            "denis909\\yii\\" : "*"
+            "denis909\\yii\\" : ""
         }
     }    
 }
