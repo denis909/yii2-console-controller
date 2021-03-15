@@ -2,7 +2,8 @@
     "name": "denis909/yii2-console-controller",
     "license": "MIT",
     "require": {
-        "psr/log": "*"
+        "psr/log": "*",
+        "denis909/yii2-console-logger": "*"
     },
     "autoload": {
         "psr-4": {
