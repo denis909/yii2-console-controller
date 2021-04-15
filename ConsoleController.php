@@ -5,7 +5,7 @@ namespace denis909\yii;
 use Psr\Log\NullLogger;
 use Psr\Log\LoggerAwareTrait;
 use Psr\Log\LoggerAwareInterface;
-use Denis909\ConsoleLogger\ConsoleLogger;
+use denis909\yii\ConsoleLogger;
 
 class ConsoleController extends \yii\console\Controller implements LoggerAwareInterface
 {
